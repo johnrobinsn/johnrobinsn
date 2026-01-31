@@ -27,3 +27,7 @@ Here are some ideas to get you started:
 * 🤖 __[askit](https://github.com/johnrobinsn/askit)__ - LLM Function Calling Library and CLI with Support for MCP Servers
 * ⚡ __[zed](https://github.com/johnrobinsn/zed)__ - A toy C++ text editor built from scratch with OpenGL rendering, targeting 60+ fps with GB-sized files.
 * 🍳 __[VibeTTY](https://github.com/johnrobinsn/VibeTTY)__ - An optimized open-source SSH client for agentic mobile coding. (Still Cooking)
+* 🔖 __[clipjot](https://github.com/johnrobinsn/clipjot)__ - A bookmark manager backend and clients (iOS, Android, Chrome)
+* 🖥️ __[VibeMux](https://github.com/johnrobinsn/VibeMux)__ - My opinionated tmux configuration with nested session support
+* 🔍 __[pilotwatch](https://github.com/johnrobinsn/pilotwatch)__ - A small logging proxy server for intercepting and logging code completion requests from Copilot
+* 🧠 __[catch](https://github.com/johnrobinsn/catch)__ - Recurrent Visual Attention using PyTorch; Catch and MNIST classification

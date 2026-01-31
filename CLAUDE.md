@@ -17,3 +17,9 @@ Here is the project list of URLs
 * https://github.com/johnrobinsn/askit
 * https://github.com/johnrobinsn/zed
 * https://github.com/johnrobinsn/VibeTTY (Still Cooking)
+* https://github.com/johnrobinsn/clipjot
+* https://github.com/johnrobinsn/VibeMux
+* https://github.com/johnrobinsn/pilotwatch
+* https://github.com/johnrobinsn/catch
+
+
