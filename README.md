@@ -44,3 +44,7 @@ Here are some ideas to get you started:
 * 🖥️ __[VibeMux](https://github.com/johnrobinsn/VibeMux)__ - My opinionated tmux configuration with nested session support
 * 🔍 __[pilotwatch](https://github.com/johnrobinsn/pilotwatch)__ - A small logging proxy server for intercepting and logging code completion requests from Copilot
 * 🧠 __[catch](https://github.com/johnrobinsn/catch)__ - Recurrent Visual Attention using PyTorch; Catch and MNIST classification
+* 🏖️ __[SandToy](https://johnrobinsn.github.io/sandtoy/)__ - An interactive GPU-based particle physics toy using WebGL
+* 🎭 __[Head Poser](https://www.storminthecastle.com/posts/01_head_poser/)__ - Posing heads with Stable Diffusion using an image regression model in latent space
+* 🔬 __[MidasDepthEstimation](https://huggingface.co/spaces/johnrobinsn/MidasDepthEstimation)__ - A Hugging Face Space for depth estimation using the MiDaS model
+* ✨ __[Spark.js](https://johnrobinsn.github.io/sparkjs/)__ - A WebGL-based graphics framework for creating interactive visual applications
