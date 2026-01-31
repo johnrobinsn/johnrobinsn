@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 ### Current Projects
 
-* 🔭 [VibeTTY](https://github.com/johnrobinsn/VibeTTY) - VibeTTY an optimized open-source SSH client for agentic mobile coding.
-* 🔭 [claude-watch](https://github.com/johnrobinsn/claude-watch) - Terminal UI dashboard for monitoring multiple Claude Code sessions in tmux
+* 🔭 __[VibeTTY](https://github.com/johnrobinsn/VibeTTY)__ - An optimized open-source SSH client for agentic mobile coding.
+* 🔭 __[claude-watch](https://github.com/johnrobinsn/claude-watch)__ - A terminal UI dashboard for monitoring multiple Claude Code sessions in tmux
