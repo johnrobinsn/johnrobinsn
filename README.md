@@ -1,8 +1,6 @@
-## Hi there 👋
+## Hi, I'm John 👋
 
-Hi, I'm John.
-
-Pushing the limits of agentic engineering...
+Exploring the limits of agentic engineering...
 
 You can find my tech blog at [Stormin the Castle](https://www.storminthecastle.com).
 
