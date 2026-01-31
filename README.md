@@ -42,9 +42,12 @@ Here are some ideas to get you started:
 * 🍳 __[VibeTTY](https://github.com/johnrobinsn/VibeTTY)__ - An optimized open-source SSH client for agentic mobile coding. (Still Cooking)
 * 🔖 __[clipjot](https://github.com/johnrobinsn/clipjot)__ - A bookmark manager backend and clients (iOS, Android, Chrome)
 * 🖥️ __[VibeMux](https://github.com/johnrobinsn/VibeMux)__ - My opinionated tmux configuration with nested session support
+* 🦙 __[redpajama](https://github.com/johnrobinsn/redpajama)__ - Training and Inference Notebooks for the RedPajama (OpenLlama) models
 * 🔍 __[pilotwatch](https://github.com/johnrobinsn/pilotwatch)__ - A small logging proxy server for intercepting and logging code completion requests from Copilot
 * 🧠 __[catch](https://github.com/johnrobinsn/catch)__ - Recurrent Visual Attention using PyTorch; Catch and MNIST classification
 * 🏖️ __[SandToy](https://johnrobinsn.github.io/sandtoy/)__ - An interactive GPU-based particle physics toy using WebGL
 * 🎭 __[Head Poser](https://www.storminthecastle.com/posts/01_head_poser/)__ - Posing heads with Stable Diffusion using an image regression model in latent space
 * 🔬 __[MidasDepthEstimation](https://huggingface.co/spaces/johnrobinsn/MidasDepthEstimation)__ - A Hugging Face Space for depth estimation using the MiDaS model
 * ✨ __[Spark.js](https://johnrobinsn.github.io/sparkjs/)__ - A WebGL-based graphics framework for creating interactive visual applications
+* 🎨 __[diffusion_experiments](https://github.com/johnrobinsn/diffusion_experiments)__ - An implementation of DiffEdit using Stable Diffusion
+* 🖌️ __[goo.js](https://github.com/johnrobinsn/goo.js)__ - Microlibrary that makes it quick and easy to draw using the HTML5 Canvas API

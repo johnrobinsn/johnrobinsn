@@ -19,9 +19,13 @@ Here is the project list of URLs
 * https://github.com/johnrobinsn/VibeTTY (Still Cooking)
 * https://github.com/johnrobinsn/clipjot
 * https://github.com/johnrobinsn/VibeMux
+* https://github.com/johnrobinsn/redpajama
 * https://github.com/johnrobinsn/pilotwatch
 * https://github.com/johnrobinsn/catch
 * https://johnrobinsn.github.io/sandtoy/
 * https://www.storminthecastle.com/posts/01_head_poser/
 * https://huggingface.co/spaces/johnrobinsn/MidasDepthEstimation
 * https://johnrobinsn.github.io/sparkjs/
+* https://github.com/johnrobinsn/diffusion_experiments
+* https://github.com/johnrobinsn/goo.js
+
