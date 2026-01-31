@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Current Projects
+
+* 🔭 [VibeTTY](https://github.com/johnrobinsn/VibeTTY) - VibeTTY an optimized open-source SSH client for agentic mobile coding.
+* 🔭 [claude-watch](https://github.com/johnrobinsn/claude-watch) - Terminal UI dashboard for monitoring multiple Claude Code sessions in tmux
