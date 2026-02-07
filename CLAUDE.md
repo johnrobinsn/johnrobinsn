@@ -12,6 +12,7 @@ Here is a short example of what I'd like the section to look like...
 So whenever I ask you to update my projects.  I'd like to go through this following list of URLs in order and regenerate the `Current Projects` section.  A few other things that I'd like you to do choose a representitive emoticon for each project and if the project is on github retrieve the project name and description from github.com.  If the url is not a github url see if you can come up with a good title and description from the linked page.
 
 Here is the project list of URLs
+* https://github.com/johnrobinsn/tscribe
 * https://github.com/johnrobinsn/claude-watch
 * https://github.com/johnrobinsn/llmsdottxt_chrome
 * https://github.com/johnrobinsn/askit

@@ -18,6 +18,8 @@ You can find my tech blog at [Stormin the Castle](https://www.storminthecastle.c
 ![Web](https://img.shields.io/badge/-Web-4285F4?style=flat-square&logo=google-chrome&logoColor=white)
 ![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
 
 <!--
 **johnrobinsn/johnrobinsn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -35,6 +37,7 @@ Here are some ideas to get you started:
 -->
 ### Current Projects
 
+* 🎙️ __[tscribe](https://github.com/johnrobinsn/tscribe)__ - Cross-platform CLI tool for recording audio and transcribing with faster-whisper
 * 👀 __[claude-watch](https://github.com/johnrobinsn/claude-watch)__ - A terminal UI dashboard for monitoring multiple Claude Code sessions in tmux
 * 🌐 __[llmsdottxt_chrome](https://github.com/johnrobinsn/llmsdottxt_chrome)__ - A Chrome extension that detects `llms.txt` files on websites and makes it easy to discover and copy URLs for use with your favorite LLM.
 * 🤖 __[askit](https://github.com/johnrobinsn/askit)__ - LLM Function Calling Library and CLI with Support for MCP Servers
